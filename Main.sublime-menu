@@ -1,0 +1,10 @@
+[
+{
+    "id": "file",
+    "children":
+    [
+        {"id": "Open URL"},
+        { "command": "open_url_here" }
+    ]
+}
+]
