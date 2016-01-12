@@ -1,3 +1,5 @@
+after developing this one, FitcheFoll suggested a better one at: https://packagecontrol.io/packages/Open-Include
+
 = Open URL Here
 Sublime Text plugin to open URLs inside the editor. To mention, the URL is downloaded into a temporary file to be able to open. So saving the file after an edit inside Sublime Text practically does not affect the remote file.
 
